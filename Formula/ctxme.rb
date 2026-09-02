@@ -1,8 +1,8 @@
 class Ctxme < Formula
   desc "Context Platform CLI"
   homepage "https://github.com/mcgloneb/ai-context"
-  url "https://files.pythonhosted.org/packages/source/c/ctxme/ctxme-0.3.0.tar.gz"
-  sha256 "4360a0d3959d8c88911d4310a290d321832c7a8647b06b7d860ed42653138836"
+  url "https://files.pythonhosted.org/packages/source/c/ctxme/ctxme-0.4.0.tar.gz"
+  sha256 "c21a16fcad9404c8d818dfae5d5ff54c0e592416facd41fc77a14a5b22973ece"
   license "Apache-2.0"
 
   depends_on "python@3.11"
